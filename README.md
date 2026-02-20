@@ -1,3 +1,3 @@
 # 86box-cdrefresh
 
-A project to send optical drive change events to 86box
+This is my attempt to investigate adding the ability detect optical drive change on the host system to 86box.
