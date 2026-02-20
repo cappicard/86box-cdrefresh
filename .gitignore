@@ -54,5 +54,8 @@ dkms.conf
 # JetBrains IDEs
 .idea/
 
+# detect-cd executable in Linux
+detect-cd
+
 # debug information files
 *.dwo
